@@ -3,7 +3,7 @@ export default defineAppConfig({
   docus: {
     title: 'dicmex',
     description: 'El diccionario de los mexicanos.',
-    image: 'https://github.com/nuestraerareal/docus/blob/f7bb144beb9fcb30db545237a98c0e146ca707c3/public/cover.png',
+    image: 'https://raw.githubusercontent.com/nuestraerareal/docus/f7bb144beb9fcb30db545237a98c0e146ca707c3/public/cover.png',
 
     socials: {
       twitter: 'theunusher',
