@@ -1,7 +1,7 @@
 // https://github.com/nuxt-themes/docus/blob/main/nuxt.schema.ts
 export default defineAppConfig({
   docus: {
-    title: 'DiMex',
+    title: 'dicmex',
     description: 'El diccionario de los mexicanos.',
     image: 'https://github.com/nuestraerareal/docus/blob/cfeb981e43619eb6373cf70ffc10585217920fa2/public/cover.png',
 
