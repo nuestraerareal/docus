@@ -11,10 +11,10 @@ export default defineAppConfig({
     },
 
     github: {
-      dir: '.starters/default/content',
+      dir: '/content',
       branch: 'main',
       repo: 'docus',
-      owner: 'nuxt-themes',
+      owner: 'nuestraerareal',
       edit: true
     },
 
